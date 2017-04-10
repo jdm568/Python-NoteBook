@@ -1,6 +1,5 @@
-Python-NoteBook Practice Repository
+# Python-NoteBook Practice Repository
 
-===================================
 
 * SeoulMetroStastic
 * Assignment
